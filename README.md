@@ -1,2 +1,3 @@
 # Segundo-semestre-ads
-Segundo semestre do curso de ADS
+## Datas das provas/trabalho/coisas importantes
+23 de Setembro prova N1 Banco de Dados
