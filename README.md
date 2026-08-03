@@ -4,9 +4,12 @@
 
 
 # Links Importantes
+
 ### 🏫 Portal FECAP
-* https://portal.fecap.br/framehtml/web/app/edu/PortalEducacional/login/
+* <a href="https://portal.fecap.br/framehtml/web/app/edu/PortalEducacional/login/" target="_blank">Portal FECAP</a>
+
 ### 🎮 Gamefy
-* https://www.gamefy.education/login
+* <a href="https://www.gamefy.education/login" target="_blank">Gamefy</a>
+
 ### 💻 Curso Expert System Certification
-* https://www.netacad.com/courses/python-essentials-1?courseLang=pt-BR&instance_id=b5325dcd-d1a5-46cc-894c-6e9dc7bf7342
+* <a href="https://www.netacad.com/courses/python-essentials-1?courseLang=pt-BR&instance_id=b5325dcd-d1a5-46cc-894c-6e9dc7bf7342" target="_blank">Python Essentials 1 - NetAcad</a>
