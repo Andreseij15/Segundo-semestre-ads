@@ -1,5 +1,7 @@
 # Segundo-semestre-ads
 ## Datas das provas/trabalho/coisas importantes
+* Terminar a vetorização dos desenhos de Design até dia 08/08/26
+* Fazer a segunda página da matéria full stack até o dia 08/08/26
 * 23 de Setembro prova N1 Banco de Dados
 
 
