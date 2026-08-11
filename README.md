@@ -13,3 +13,6 @@
 
 ### 💻 Curso Expert System Certification
 * <a href="https://www.netacad.com/courses/python-essentials-1?courseLang=pt-BR&instance_id=b5325dcd-d1a5-46cc-894c-6e9dc7bf7342" target="_blank">Python Essentials 1 - NetAcad</a>
+
+### Maratona de Programação
+* https://codeforces.com/problemset/problem/1370/A
