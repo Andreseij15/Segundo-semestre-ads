@@ -4,3 +4,4 @@ for n in range:
     print(n // 2)
 
     print("Hello World")
+    print('Sla cara')
