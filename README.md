@@ -4,7 +4,6 @@
 * Fazer a segunda página da matéria full stack até o dia 15/08/26 
 * Jogar Flex Frog, materia de web fullstack até o dia 15/08/26 
 * 23 de Setembro prova N1 Banco de Dados
-* Jogar Flex Frog, materia de web fullstack
 # Links Importantes
 
 ### 🏫 Portal FECAP
